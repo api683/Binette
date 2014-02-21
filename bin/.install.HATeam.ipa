@@ -1,0 +1,8 @@
+/Applications/flex_sdk_4.6/bin/adt
+-installApp
+-platform
+ios
+-device
+1
+-package
+/Users/etu01/Documents/workspace/HATeam/bin/HATeam.ipa

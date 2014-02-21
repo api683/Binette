@@ -1,0 +1,5 @@
+# Pour ne pas versionner les fichiers cachés de: PHPStorm et Mac OSX
+.idea/
+.DS_Store
+.sass-cache/
+
